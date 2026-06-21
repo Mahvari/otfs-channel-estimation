@@ -20,7 +20,7 @@ This work investigates channel estimation techniques for the orthogonal time fre
 ## Authors
 
 Paper by Yatish Pachigolla, Lorenzo Zaniboni, and Mahdi Mahvari.
-Code implementation by Yatish Pachigolla, developed as part of his master's thesis at TUM.
+Code implementation by Yatish Pachigolla, developed as part of his master's thesis at TUM, supervised by Lorenzo Zaniboni and Mahdi Mahvari.
 
 ## Citation
 
